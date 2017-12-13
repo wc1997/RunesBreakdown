@@ -33,5 +33,6 @@ Publically accessable ranks are Master and Challengers queues. To acccess Bronze
               
           }
           
-     2. Using the id we can do league.by_summoner(region,id) to get a the league the player is in, which includes data of all          players in that league. We can then grab corresponding data the same way we did for challenger and masters.
+     2. Using the id we can do league.by_summoner(region,id) to get a the league the player is in, which includes 
+     data of all players in that league. We can then grab corresponding data the same way we did for challenger and masters.
           
