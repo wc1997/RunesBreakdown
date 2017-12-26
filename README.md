@@ -36,3 +36,6 @@ Publically accessable ranks are Master and Challengers queues. To acccess Bronze
      2. Using the id we can do league.by_summoner(region,id) to get a the league the player is in, which includes 
      data of all players in that league. We can then grab corresponding data the same way we did for challenger and masters.
           
+UPDATE 1: December 25th 2017
+     Finished collecting for each user : accountIds,summonerIds,Top 3 Champions played and their scores, Champion Mastery score, and rank:  
+     TODO: Collect recent match history data and store relevant statistics as well as rune data.
