@@ -38,4 +38,8 @@ Publically accessable ranks are Master and Challengers queues. To acccess Bronze
           
 UPDATE 1: December 25th 2017
      Finished collecting for each user : accountIds,summonerIds,Top 3 Champions played and their scores, Champion Mastery score, and rank:  
-     TODO: Collect recent match history data and store relevant statistics as well as rune data.
+     TODO: ~~Collect recent match history data and store relevant statistics as well as rune data.~~
+     
+UPDATE 2: Dec 27th 2017  
+     Finished collecting match history data for 40,000 matchIds. The corresponding CSV file is mergedStatistics.csv.. I have some trouble with errors in the beginning so I ran the script multiple times but in the end I removed any duplicates and "NA" perk values. See dataScrapping/getMatchStats.py for more information.
+     TODO: Create a beautiful interactive page!!
