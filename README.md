@@ -1,4 +1,4 @@
-# LeagueOfLegends_Rank_Predictor
+# LeagueOfLegends_RunesBreakdown
 
 Attemp to create CSV from league of legends API containing related features needed to do prediction and make an interactive plots about runes.
 
@@ -6,10 +6,12 @@ Using riotWatcher package
 
 1 Parse API of different ranks (Bronze, Silver, Gold, Platnium, Diamond, Masters, Challenger)
 
-2 Create CSV for multi-class classification
+2 Create a webpage displaying educational statisics of runes depending of various variables. 
 
-3 Attemp to create a model to predict players rank based on information such as 
-     cs/min, kda, win percentages, which champions are played
+     Future Projects with data collected: 
+     Create CSV for multi-class classification
+     Attemp to create a model to predict players rank based on information such as 
+          cs/min, kda, win percentages, which champions are played
 
 TODO: ~~Current complications: ~~
 
